@@ -33,7 +33,7 @@ filler.auto_filling(2, 250, [2,4,4,8], [3,-1,-1,3])
 
 ## Built With
 
-* [Pycharm](https://www.jetbrains.com/pycharm/) - The Python workspace
+* [PyCharm](https://www.jetbrains.com/pycharm/) - The Python workspace
 
 
 ## Authors
