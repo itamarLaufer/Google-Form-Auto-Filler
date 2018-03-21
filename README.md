@@ -1,7 +1,7 @@
-# Google-Form-Auto-Filler
+# Google-Forms-Auto-Filler
 filler Python library enables filling large amount Google form with multiple choice question (An update which will enable filling all the kind of question will be published soon) automatically and quickly with random answers or user's requested answers.
 
-A video demonstrating gow the library works: [a link](https://drive.google.com/file/d/1twdch8YoZePCcT43jwZQOS9OcwnGU90U/view?usp=drivesdk)
+[A video demonstrating gow the library works:](https://drive.google.com/file/d/1twdch8YoZePCcT43jwZQOS9OcwnGU90U/view?usp=drivesdk)
 
 
 
@@ -13,7 +13,7 @@ Copy the 2 Pyhton file to your repository.
 
 ### How To Use?
 
-In the example we'll use the module to fill this form [a link](https://docs.google.com/forms/d/e/1FAIpQLSf3FklBI3vm6RLWDFqD1r3mRKxhPFbcshL2xOA-ZyFo1l-JOg/viewform)
+In the example we'll use the module to fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSf3FklBI3vm6RLWDFqD1r3mRKxhPFbcshL2xOA-ZyFo1l-JOg/viewform)
 
 
 ```
