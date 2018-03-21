@@ -29,7 +29,7 @@ filler.auto_filling(2, 250, [2,4,4,8], [3,-1,-1,3])
 2 is the refreshing time of our browser (The time it takes it to submit)
 250 is the amount of forms we want to be filled
 [2,4,4,8] is a list containing the number of answer for each quaestion in the form
-[3,-1,-1,3] is the ansers we want to be filled -> in question 1 the 3rd ansser in question 2 a random answer and so forth.
+[3,-1,-1,3] is the answers we want to be filled -> in question 1 the 3rd answer in question 2 a random answer and so forth.
 
 ## Contributing
 
